@@ -1,5 +1,5 @@
 
-Microsoft Visual Studio Solution File, Format Version 11.00
+Microsoft Visual Studio Solution File, Format Version
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeAreDevs_API", "WeAreDevs_API.csproj", "{7C39DA64-2178-4755-88EA-43F7ACCC58C5}"
 EndProject
@@ -18,3 +18,4 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
+
